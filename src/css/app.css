@@ -1,0 +1,16 @@
+.page {
+  padding: 16px 16px 96px 16px;
+}
+
+.section-container {
+  padding: 16px;
+  background: #ffffff;
+  border-radius: 8px;
+  margin-bottom: 24px;
+}
+.tagname {
+  padding: 16px;
+  background: #cfc8c8;
+  border-radius: 8px;
+  margin-bottom: 24px;
+}

@@ -1,0 +1,28 @@
+{
+  "name": "White-label product",
+  "options": {
+    "oaId": {
+      "title": "ID OA",
+      "description": "ID của OA cần follow khi...",
+      "type": "string",
+      "maxLength": 20
+    },
+    "primaryColor": {
+      "title": "Primary Color",
+      "description": "Màu chủ đạo",
+      "type": "color"
+    },
+    "itemsPerPage": {
+      "title": "Items per page",
+      "description": "Số lượng sản phẩm mỗi trang",
+      "type": "number",
+      "min": 1,
+      "max": 100
+    },
+    "showSearch": {
+      "title": "Show search bar",
+      "description": "Hiển thị thanh tìm kiếm",
+      "type": "boolean"
+    }
+  }
+}
